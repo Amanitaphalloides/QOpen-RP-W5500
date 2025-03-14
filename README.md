@@ -36,7 +36,7 @@ QOpen-RP-W5500 is an open source DEV_Board with RP2040 & WIZnet® W5500. Communi
 
 # **Precautions❗**
 1. W5500's working current is high. Please be sure to attach the heat sink.
-2. Make sure that the LDO outputs 3.3V normally before soldering other components。
+2. Make sure that the LDO outputs 3.3V normally before soldering other components.
 
 # **FAQ❓**
 ## Why my PC can’t recognize the board？
